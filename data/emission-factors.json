@@ -1,0 +1,24 @@
+{
+  "emission_factors": {
+    "car": { "kgCO2ePerKm": 0.17, "source": "DEFRA 2023 average petrol car (starter)" },
+    "two_wheeler": { "kgCO2ePerKm": 0.10, "source": "India GHG Program road transport (starter)" },
+    "auto": { "kgCO2ePerKm": 0.09, "source": "CNG auto estimate (starter)" },
+    "bus": { "kgCO2ePerKm": 0.07, "source": "DEFRA 2023 bus per passenger (starter)" },
+    "metro": { "kgCO2ePerKm": 0.035, "source": "DMRC carbon footprint report (starter)" },
+    "walk": { "kgCO2ePerKm": 0, "source": "Zero emissions" },
+    "cycle": { "kgCO2ePerKm": 0, "source": "Zero emissions" },
+    "wfh": { "kgCO2ePerKm": 0, "source": "Zero emissions" }
+  },
+  "working_weeks_per_year": 48,
+  "idling": {
+    "litres_per_hour_range": [0.6, 1.0],
+    "minutes_per_day": 5,
+    "working_days_per_year": 250,
+    "kg_co2_per_litre_petrol": 2.3,
+    "source": "assumption + range"
+  },
+  "trip_chaining": {
+    "km_reduction_range_pct": [5, 15],
+    "source": "assumption + range"
+  }
+}

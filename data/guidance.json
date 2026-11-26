@@ -1,0 +1,34 @@
+{
+  "guidance": [
+    {
+      "level": 0,
+      "en": { "everyone": "Normal activity. Good time to air the house.", "sensitive": "Normal activity." },
+      "hi": { "everyone": "सामान्य गतिविधि। घर हवादार करने का अच्छा समय।", "sensitive": "सामान्य गतिविधि।" }
+    },
+    {
+      "level": 1,
+      "en": { "everyone": "Normal activity.", "sensitive": "Unusually sensitive people: consider shorter or lighter outdoor exertion." },
+      "hi": { "everyone": "सामान्य गतिविधि।", "sensitive": "असामान्य रूप से संवेदनशील लोग: बाहरी व्यायाम कम या हल्का करें।" }
+    },
+    {
+      "level": 2,
+      "en": { "everyone": "Normal activity. Shorten very intense outdoor exertion.", "sensitive": "Limit prolonged outdoor exertion. Keep windows shut at peak hours." },
+      "hi": { "everyone": "सामान्य गतिविधि। बहुत तीव्र बाहरी व्यायाम कम करें।", "sensitive": "लंबे समय तक बाहरी व्यायाम सीमित करें। चरम घंटों में खिड़कियां बंद रखें।" }
+    },
+    {
+      "level": 3,
+      "en": { "everyone": "Reduce prolonged outdoor exertion. N95 for open-transport commutes.", "sensitive": "Avoid outdoor exertion. Indoor activities. N95 for essential trips." },
+      "hi": { "everyone": "लंबे समय तक बाहरी व्यायाम कम करें। खुली यात्रा में N95 पहनें।", "sensitive": "बाहरी व्यायाम से बचें। घर के अंदर गतिविधियां करें। ज़रूरी यात्रा में N95 पहनें।" }
+    },
+    {
+      "level": 4,
+      "en": { "everyone": "Avoid prolonged outdoor exertion. Keep windows shut. Run purifier.", "sensitive": "Stay indoors. No outdoor PE or play." },
+      "hi": { "everyone": "लंबे समय तक बाहरी व्यायाम से बचें। खिड़कियां बंद रखें। प्यूरिफायर चलाएं।", "sensitive": "घर के अंदर रहें। बाहर खेल-कूद या PE नहीं।" }
+    },
+    {
+      "level": 5,
+      "en": { "everyone": "Avoid outdoor exertion. Work from home if possible. N95 for essential trips.", "sensitive": "Stay indoors. Follow your doctor's plan. Seek care if symptoms worsen." },
+      "hi": { "everyone": "बाहरी व्यायाम से बचें। संभव हो तो घर से काम करें। ज़रूरी यात्रा में N95 पहनें।", "sensitive": "घर के अंदर रहें। अपने डॉक्टर की योजना का पालन करें। लक्षण बिगड़ें तो चिकित्सा सहायता लें।" }
+    }
+  ]
+}
